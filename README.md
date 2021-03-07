@@ -1,2 +1,2 @@
-# Machine_Learning101_WorkShop
+# Machine Learning101 WorkShop
 Machine learning 101 workshop 
