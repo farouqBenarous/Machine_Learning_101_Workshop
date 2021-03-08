@@ -1,4 +1,4 @@
-# Machine Learning101 WorkShop
+# Machine Learning 101 Workshop
 Machine learning 101 workshop 
 
 
