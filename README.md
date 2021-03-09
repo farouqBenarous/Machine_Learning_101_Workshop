@@ -1,4 +1,4 @@
-# Machine Learning101 WorkShop
+# Machine Learning 101 Workshop
 Machine learning 101 workshop 
 
 
@@ -12,7 +12,11 @@ Machine learning 101 workshop
 
 * Regulization : Chapter 7 of the deep learning textbook https://www.deeplearningbook.org/contents/regularization.html 
 
+<<<<<<< HEAD
 * Bulding Models :
 	 * Coursera Machine learnig course by andrew-ng https://www.coursera.org/learn/machine-learning
 	 * Coursera Deep learning specialisation https://www.coursera.org/specializations/deep-learning
 	 * If You want more detaild /long course that tackels all the nerdy dirty details here it is by Kilian Weinberger from cornell university https://www.youtube.com/watch?v=xpHQ6UhMlx4&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
+=======
+* Modeling :Coursera specialisation https://www.coursera.org/specializations/deep-learning
+>>>>>>> 77c4775594de90aab6edf404b2fc4e414dbe16df
