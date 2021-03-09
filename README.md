@@ -1,5 +1,5 @@
 # Machine Learning 101 Workshop
-Machine learning 101 workshop 
+Machine learning from theory to practice 
 
 
 ## Usefull links to learn more about the diffrent componenets of machine learning 
