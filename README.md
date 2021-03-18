@@ -16,3 +16,9 @@ Machine learning from theory to practice
 	 * Coursera Machine learnig course by andrew-ng https://www.coursera.org/learn/machine-learning
 	 * Coursera Deep learning specialisation https://www.coursera.org/specializations/deep-learning
 	 * If You want more detaild /long course that tackels all the nerdy dirty details here it is by Kilian Weinberger from cornell university https://www.youtube.com/watch?v=xpHQ6UhMlx4&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
+
+* Bias vs variance tradeoff : https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote12.html
+
+* Math recap for machine learning : https://www.deeplearningbook.org/contents/part_basics.html
+
+* Reinforcement learning  textbook: https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
