@@ -1,7 +1,7 @@
 # Machine Learning 101 Workshop
 Machine learning from theory to practice 
 
-Youtube record on youtube:
+Video recording on youtube:
 * https://www.youtube.com/watch?v=Ho8JxfyFGqM
 
 ## Usefull links to learn more about the diffrent componenets of machine learning 
